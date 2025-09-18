@@ -4,7 +4,7 @@ This repository contains a collection of projects that demonstrate my skills in 
 
 ---
 
-## Project 1: Custom Shell Implementation
+## Project: Custom Shell Implementation
 
 This project involved building a functional Unix-like shell in C++ that could execute commands, manage processes, and handle input/output redirection. While some scaffolding (such as the parameter class and basic header files) was provided by the instructor, the core functionality of process management and I/O handling was designed and implemented by me.  
 
@@ -26,7 +26,7 @@ The project successfully extended the base provided code into a fully operationa
 
 ---
 
-## Project 2: Multi-Threaded Collatz Stopping Time Generator
+## Project: Multi-Threaded Collatz Stopping Time Generator
 
 This project explored **parallel programming and concurrency control** by computing the stopping times of Collatz sequences across a large range of numbers using multiple threads.  
 
